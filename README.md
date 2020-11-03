@@ -17,6 +17,7 @@ numbertheroyreact > client folder
 ```
 
 #### Copy ENV file in app
+go to root folder and run below cammand
 ```
 cd numbertheorynode && cp .example.env .env && cd ..
 cd numbertheroyreact && cp .example.env .env
